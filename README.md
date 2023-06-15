@@ -21,7 +21,7 @@ The project utilizes a dataset comprising historical IPL match data, including t
 The following technologies and tools are used in this project:
 
 - Python: The primary programming language for data preprocessing, model training, and prediction.
-- Machine Learning Libraries: Scikit-learn, xgboost and lightgbm for implementing machine learning models.
+- Machine Learning Libraries: Scikit-learn and lightgbm for implementing machine learning models.
 - Streamlit: A Python library used to build interactive web applications for showcasing the predictions and results.
 - Pandas: Data manipulation and analysis library for preprocessing the dataset.
 - Jupyter Notebook: Used for exploratory data analysis and prototyping ML models.

@@ -1,6 +1,5 @@
 streamlit
 scikit-learn
-xgboost
 lightgbm
 pandas
 numpy
