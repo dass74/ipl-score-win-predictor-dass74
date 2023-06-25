@@ -8,13 +8,22 @@ page_bg_img = """
 background-image: url("https://wallpapercave.com/wp/wp3049938.jpg");
 background-size: cover;
 }
-[data-testid="stHeader"]{
+[data-testid="stHeader"] {
 background-color: rgba(0, 0, 0, 0);
 }
 </style>
 """
-
 st.markdown(page_bg_img, unsafe_allow_html=True)
+
+# css = """
+# <style>
+# [data-testid="stHorizontalBlock"] {
+# color: #000000;
+# }
+# </style>
+# """
+# st.markdown(css, unsafe_allow_html=True)
+
 
 teams = [
     'Chennai Super Kings',
